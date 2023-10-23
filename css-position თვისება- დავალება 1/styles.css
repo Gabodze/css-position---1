@@ -1,0 +1,15 @@
+.container{
+    width: 686px;
+    height: 464px;
+    background-color: #0019F9;
+    position: relative;
+}
+
+.div2{
+    width: 253px;
+    height: 190px;
+    background-color: #F80303;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
